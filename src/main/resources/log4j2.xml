@@ -17,7 +17,7 @@
 		<!-- <Logger name="com.github.koraktor.steamcondenser" level="error" additivity="false">
 			<AppenderRef ref="console" />
 		</Logger> -->
-		<Root level="info">
+		<Root level="error">
 			<AppenderRef ref="console" />
 		</Root>
 	</Loggers>
